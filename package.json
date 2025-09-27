@@ -4,7 +4,7 @@
   "description": "## Last Updated",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^7.1.0",
+    "puppeteer": "^24.10.2",
     "puppeteer-extra": "^3.2.3",
     "puppeteer-extra-plugin-adblocker": "^2.11.10"
   },
